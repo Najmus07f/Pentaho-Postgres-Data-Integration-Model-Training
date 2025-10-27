@@ -21,3 +21,4 @@ Unsupervised: K-Means clustering (group discovery), Isolation Forest (anomaly de
 Evaluation (placeholders)
 
 Report MAE/RMSE/R² for regressors; silhouette/cluster summaries for K-Means; anomaly rates and examples for Isolation Forest.
+Dataset:https://www.kaggle.com/datasets/cityofLA/los-angeles-parking-citations?select=parking-citations.csv
