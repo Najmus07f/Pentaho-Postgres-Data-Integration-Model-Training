@@ -1,5 +1,4 @@
-# End-to-End-Data-Pipeline-ML-Modeling-with-Pentaho-PostgreSQL-DWH
-Overview
+Pentaho–Postgres Data Integration & Model Training
 
 This repository contains an end-to-end workflow: ETL in Pentaho, a star-schema warehouse in PostgreSQL (dimensions + fact), and ML notebooks in Python. The goal is to move from raw data to reliable features, predictions, and structure discovery.
 
